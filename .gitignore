@@ -20,3 +20,5 @@ anvil
 cast
 chisel
 forge
+web3-sdk/dist/
+web3-sdk/node_modules/
